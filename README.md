@@ -1,6 +1,6 @@
 # Noon Academy — Intervention Dashboard
 
-[Walkthrough Video Link](INSERT_LOOM_LINK_HERE)
+[Walkthrough Video Link](https://www.loom.com/share/dc218e45e957471d8240b7f14f324db1)
 
 ## Quick start (fresh clone)
 
