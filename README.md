@@ -5,7 +5,7 @@
 ## Quick start (fresh clone)
 
 ```bash
-git clone <your-repo-url> && cd noon_intervention && python run.py
+git clone https://github.com/yalabri20/noon-intervention && cd noon_intervention && python run.py
 ```
 
 `run.py` installs dependencies and launches Streamlit. Bundled CSVs live in `data/`; outputs go to `outputs/`.
