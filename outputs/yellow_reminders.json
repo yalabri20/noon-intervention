@@ -1,0 +1,258 @@
+[
+  {
+    "student_id": "S005",
+    "student_name": "Omar Al-Harbi",
+    "campus_id": "C01",
+    "avg_att_min": 69.8,
+    "avg_practice_qd": 15.6,
+    "message": "مرحباً Omar Al-Harbi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Omar Al-Harbi! Quiz 2 is in 6 days. You've averaged 70 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S023",
+    "student_name": "Hassan Al-Dossari",
+    "campus_id": "C01",
+    "avg_att_min": 69.8,
+    "avg_practice_qd": 16.8,
+    "message": "مرحباً Hassan Al-Dossari! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 17 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Hassan Al-Dossari! Quiz 2 is in 6 days. You've averaged 70 min/session and 17 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S134",
+    "student_name": "Layla Al-Khaldi",
+    "campus_id": "C04",
+    "avg_att_min": 52.6,
+    "avg_practice_qd": 9.2,
+    "message": "مرحباً Layla Al-Khaldi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 53 دقيقة/جلسة وأكملت 9 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Layla Al-Khaldi! Quiz 2 is in 6 days. You've averaged 53 min/session and 9 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S139",
+    "student_name": "Khalid Al-Thani",
+    "campus_id": "C04",
+    "avg_att_min": 63.9,
+    "avg_practice_qd": 7.5,
+    "message": "مرحباً Khalid Al-Thani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 64 دقيقة/جلسة وأكملت 8 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Khalid Al-Thani! Quiz 2 is in 6 days. You've averaged 64 min/session and 8 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S101",
+    "student_name": "Omar Al-Qahtani",
+    "campus_id": "C03",
+    "avg_att_min": 69.8,
+    "avg_practice_qd": 14.7,
+    "message": "مرحباً Omar Al-Qahtani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 15 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Omar Al-Qahtani! Quiz 2 is in 6 days. You've averaged 70 min/session and 15 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S128",
+    "student_name": "Maryam Al-Maliki",
+    "campus_id": "C04",
+    "avg_att_min": 64.7,
+    "avg_practice_qd": 8.5,
+    "message": "مرحباً Maryam Al-Maliki! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 65 دقيقة/جلسة وأكملت 8 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Maryam Al-Maliki! Quiz 2 is in 6 days. You've averaged 65 min/session and 8 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S092",
+    "student_name": "Maryam Al-Mansour",
+    "campus_id": "C03",
+    "avg_att_min": 64.7,
+    "avg_practice_qd": 7.5,
+    "message": "مرحباً Maryam Al-Mansour! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 65 دقيقة/جلسة وأكملت 8 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Maryam Al-Mansour! Quiz 2 is in 6 days. You've averaged 65 min/session and 8 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S151",
+    "student_name": "Khalid Al-Zahrani",
+    "campus_id": "C04",
+    "avg_att_min": 61.3,
+    "avg_practice_qd": 7.5,
+    "message": "مرحباً Khalid Al-Zahrani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 61 دقيقة/جلسة وأكملت 8 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Khalid Al-Zahrani! Quiz 2 is in 6 days. You've averaged 61 min/session and 8 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S058",
+    "student_name": "Nora Al-Dossari",
+    "campus_id": "C02",
+    "avg_att_min": 58.8,
+    "avg_practice_qd": 11.8,
+    "message": "مرحباً Nora Al-Dossari! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 59 دقيقة/جلسة وأكملت 12 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Nora Al-Dossari! Quiz 2 is in 6 days. You've averaged 59 min/session and 12 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S039",
+    "student_name": "Ahmad Al-Dossari",
+    "campus_id": "C01",
+    "avg_att_min": 71.8,
+    "avg_practice_qd": 15.7,
+    "message": "مرحباً Ahmad Al-Dossari! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 72 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Ahmad Al-Dossari! Quiz 2 is in 6 days. You've averaged 72 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S007",
+    "student_name": "Khalid Al-Shammari",
+    "campus_id": "C01",
+    "avg_att_min": 59.2,
+    "avg_practice_qd": 13.7,
+    "message": "مرحباً Khalid Al-Shammari! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 59 دقيقة/جلسة وأكملت 14 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Khalid Al-Shammari! Quiz 2 is in 6 days. You've averaged 59 min/session and 14 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S006",
+    "student_name": "Sara Al-Dossari",
+    "campus_id": "C01",
+    "avg_att_min": 72.8,
+    "avg_practice_qd": 15.7,
+    "message": "مرحباً Sara Al-Dossari! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 73 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Sara Al-Dossari! Quiz 2 is in 6 days. You've averaged 73 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S013",
+    "student_name": "Yousef Al-Balawi",
+    "campus_id": "C01",
+    "avg_att_min": 79.6,
+    "avg_practice_qd": 16.0,
+    "message": "مرحباً Yousef Al-Balawi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 80 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Yousef Al-Balawi! Quiz 2 is in 6 days. You've averaged 80 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S014",
+    "student_name": "Layla Al-Subai",
+    "campus_id": "C01",
+    "avg_att_min": 69.5,
+    "avg_practice_qd": 9.8,
+    "message": "مرحباً Layla Al-Subai! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 10 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Layla Al-Subai! Quiz 2 is in 6 days. You've averaged 70 min/session and 10 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S024",
+    "student_name": "Amal Al-Mutlaq",
+    "campus_id": "C01",
+    "avg_att_min": 50.0,
+    "avg_practice_qd": 25.0,
+    "message": "مرحباً Amal Al-Mutlaq! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 50 دقيقة/جلسة وأكملت 25 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Amal Al-Mutlaq! Quiz 2 is in 6 days. You've averaged 50 min/session and 25 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S028",
+    "student_name": "Fatima Al-Mansour",
+    "campus_id": "C01",
+    "avg_att_min": 74.8,
+    "avg_practice_qd": 15.9,
+    "message": "مرحباً Fatima Al-Mansour! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 75 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Fatima Al-Mansour! Quiz 2 is in 6 days. You've averaged 75 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S117",
+    "student_name": "Abdullah Al-Rashidi",
+    "campus_id": "C03",
+    "avg_att_min": 73.3,
+    "avg_practice_qd": 15.2,
+    "message": "مرحباً Abdullah Al-Rashidi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 73 دقيقة/جلسة وأكملت 15 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Abdullah Al-Rashidi! Quiz 2 is in 6 days. You've averaged 73 min/session and 15 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S115",
+    "student_name": "Khalid Al-Thani",
+    "campus_id": "C03",
+    "avg_att_min": 67.4,
+    "avg_practice_qd": 8.5,
+    "message": "مرحباً Khalid Al-Thani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 67 دقيقة/جلسة وأكملت 8 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Khalid Al-Thani! Quiz 2 is in 6 days. You've averaged 67 min/session and 8 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S056",
+    "student_name": "Maryam Al-Harbi",
+    "campus_id": "C02",
+    "avg_att_min": 70.0,
+    "avg_practice_qd": 9.5,
+    "message": "مرحباً Maryam Al-Harbi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 10 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Maryam Al-Harbi! Quiz 2 is in 6 days. You've averaged 70 min/session and 10 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S067",
+    "student_name": "Khalid Al-Shahrani",
+    "campus_id": "C02",
+    "avg_att_min": 74.3,
+    "avg_practice_qd": 16.2,
+    "message": "مرحباً Khalid Al-Shahrani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 74 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Khalid Al-Shahrani! Quiz 2 is in 6 days. You've averaged 74 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S050",
+    "student_name": "Layla Al-Thani",
+    "campus_id": "C02",
+    "avg_att_min": 77.3,
+    "avg_practice_qd": 17.5,
+    "message": "مرحباً Layla Al-Thani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 77 دقيقة/جلسة وأكملت 18 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Layla Al-Thani! Quiz 2 is in 6 days. You've averaged 77 min/session and 18 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S046",
+    "student_name": "Nora Al-Anzi",
+    "campus_id": "C02",
+    "avg_att_min": 50.0,
+    "avg_practice_qd": 22.9,
+    "message": "مرحباً Nora Al-Anzi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 50 دقيقة/جلسة وأكملت 23 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Nora Al-Anzi! Quiz 2 is in 6 days. You've averaged 50 min/session and 23 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S080",
+    "student_name": "Maryam Al-Maliki",
+    "campus_id": "C03",
+    "avg_att_min": 67.4,
+    "avg_practice_qd": 8.5,
+    "message": "مرحباً Maryam Al-Maliki! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 67 دقيقة/جلسة وأكملت 8 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Maryam Al-Maliki! Quiz 2 is in 6 days. You've averaged 67 min/session and 8 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S068",
+    "student_name": "Maryam Al-Qaisi",
+    "campus_id": "C02",
+    "avg_att_min": 69.8,
+    "avg_practice_qd": 9.5,
+    "message": "مرحباً Maryam Al-Qaisi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 10 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Maryam Al-Qaisi! Quiz 2 is in 6 days. You've averaged 70 min/session and 10 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S163",
+    "student_name": "Khalid Al-Thani",
+    "campus_id": "C05",
+    "avg_att_min": 74.1,
+    "avg_practice_qd": 21.5,
+    "message": "مرحباً Khalid Al-Thani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 74 دقيقة/جلسة وأكملت 22 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Khalid Al-Thani! Quiz 2 is in 6 days. You've averaged 74 min/session and 22 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S141",
+    "student_name": "Abdullah Al-Rashidi",
+    "campus_id": "C04",
+    "avg_att_min": 71.3,
+    "avg_practice_qd": 14.9,
+    "message": "مرحباً Abdullah Al-Rashidi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 71 دقيقة/جلسة وأكملت 15 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Abdullah Al-Rashidi! Quiz 2 is in 6 days. You've averaged 71 min/session and 15 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S098",
+    "student_name": "Layla Al-Mutairi",
+    "campus_id": "C03",
+    "avg_att_min": 57.3,
+    "avg_practice_qd": 20.6,
+    "message": "مرحباً Layla Al-Mutairi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 57 دقيقة/جلسة وأكملت 21 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Layla Al-Mutairi! Quiz 2 is in 6 days. You've averaged 57 min/session and 21 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S104",
+    "student_name": "Maryam Al-Maliki",
+    "campus_id": "C03",
+    "avg_att_min": 69.8,
+    "avg_practice_qd": 9.5,
+    "message": "مرحباً Maryam Al-Maliki! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 70 دقيقة/جلسة وأكملت 10 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Maryam Al-Maliki! Quiz 2 is in 6 days. You've averaged 70 min/session and 10 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S042",
+    "student_name": "Sara Al-Balawi",
+    "campus_id": "C02",
+    "avg_att_min": 84.22222222222223,
+    "avg_practice_qd": 14.1,
+    "message": "مرحباً Sara Al-Balawi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 84 دقيقة/جلسة وأكملت 14 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Sara Al-Balawi! Quiz 2 is in 6 days. You've averaged 84 min/session and 14 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S017",
+    "student_name": "Omar Al-Harbi",
+    "campus_id": "C01",
+    "avg_att_min": 81.3,
+    "avg_practice_qd": 16.5,
+    "message": "مرحباً Omar Al-Harbi! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 81 دقيقة/جلسة وأكملت 16 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Omar Al-Harbi! Quiz 2 is in 6 days. You've averaged 81 min/session and 16 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S070",
+    "student_name": "Nora Al-Thani",
+    "campus_id": "C02",
+    "avg_att_min": 56.3,
+    "avg_practice_qd": 18.6,
+    "message": "مرحباً Nora Al-Thani! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 56 دقيقة/جلسة وأكملت 19 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Nora Al-Thani! Quiz 2 is in 6 days. You've averaged 56 min/session and 19 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  },
+  {
+    "student_id": "S156",
+    "student_name": "Amal Al-Subai",
+    "campus_id": "C04",
+    "avg_att_min": 56.8,
+    "avg_practice_qd": 17.3,
+    "message": "مرحباً Amal Al-Subai! 👋 تذكير ودي: اختبار Quiz 2 بعد 6 أيام فقط. حضرت في المتوسط 57 دقيقة/جلسة وأكملت 17 سؤال تدريبي يومياً. حاول الوصول إلى 90 دقيقة + 10 أسئلة يومياً — أنت قادر على ذلك! 💪\n\nHi Amal Al-Subai! Quiz 2 is in 6 days. You've averaged 57 min/session and 17 practice Q/day. Aim for 90 min + 10 questions daily. You've got this!"
+  }
+]
